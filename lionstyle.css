@@ -1,0 +1,118 @@
+@font-face { font-family: 'LeeHyunJi';
+             src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/LeeHyunJi.woff') 
+             format('woff'); font-weight: normal; font-style: normal; }
+@import url(//fonts.googleapis.com/earlyaccess/nanumbrushscript.css);
+@font-face { font-family: 'BMJUA'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMJUA.woff') 
+             format('woff'); font-weight: normal; font-style: normal; }
+             @font-face { font-family: 'InkLipquid'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/InkLipquid.woff') 
+
+             format('woff'); font-weight: normal; font-style: normal; }
+
+.container{
+	
+	width: 960px;
+	font-family: 'BMJUA';
+	text-align: center;
+	margin:auto;
+}
+
+.a{
+	margin:auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+h1{
+
+	font-family: 'BMJUA';
+	display:inline-block;
+	margin-right:120px;
+
+}
+header{
+	width:100%;
+	
+	display: inline-block;
+	font-family: 'BMJUA';
+	background-image: url("123.jpg");
+	background-size: 600px ;
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	font-size:18px;
+
+
+}
+header div{
+	width: 100%;
+	height:600px;
+}
+nav{
+	
+	font-size: 20px;
+	background-image: url("http://mzayat.com/2018/sea-clipart-wave-line/sea-clipart-wave-line-29.jpg");
+    background-size:cover;
+ 
+}
+nav div{
+	width: 100%;
+	height:70px;
+
+
+}
+
+
+section div{
+	width: 100%;
+	
+
+	text-align: center;
+    font-family: 'BMJUA';
+   
+}
+
+footer div{
+	text-align: center;
+	width:100%;
+	font-family: 'BMJUA';
+	font-size: 15px;
+	width: 100%;
+
+
+}
+
+li{
+	font-size:15px;
+}
+
+article{
+	font-size:15px;
+	font-family: 'BMJUA';
+	width:310px;
+	height:310px;
+	margin:30px;	
+}
+img{
+	width:310px;
+	height:310px;
+}
+
+
+
+
+nav div a{
+	font-size:15px;
+	font-family: 'BMJUA';
+}	
+
+p{
+	text-align: center;
+	font-size:15px;
+
+}
+div h2{
+	
+	font-size:60px;
+	font-family: 'InkLipquid';
+}
